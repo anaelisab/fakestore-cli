@@ -1,0 +1,17 @@
+{
+  "name": "fakestore-cli",
+  "version": "1.0.0",
+  "description": "CLI application to manage products using FakeStore API",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "cli",
+    "fakestore",
+    "api"
+  ],
+  "author": "",
+  "license": "ISC"
+}
