@@ -1,7 +1,7 @@
 {
   "name": "fakestore-cli",
   "version": "1.0.0",
-  "description": "CLI application to manage products using FakeStore API",
+  "description": "Aplicación CLI para interactuar con la API de FakeStore",
   "main": "index.js",
   "type": "module",
   "scripts": {
