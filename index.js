@@ -41,7 +41,7 @@ FakeStore CLI - Instrucciones de Uso:
                                                                 
 ~Crear un nuevo producto:                                         
     npm run start POST products <title> <price> <category>      
-    Example: npm run start POST products T-Shirt-Rex 300 remeras
+    Ejemplo: npm run start POST products T-Shirt-Rex 300 remeras
                                                                 
 ~Eliminar un producto:                                             
     npm run start DELETE products/7                             
