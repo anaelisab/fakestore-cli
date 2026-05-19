@@ -14,27 +14,27 @@ npm run start GET products
 ### Obtener un producto específico
 
 Estructura:
-npm run start GET products/<productId>
+`npm run start GET products/<productId>`
 
 Ejemplo:
-npm run start GET products/15
+`npm run start GET products/15`
 
 ---
 
 ### Crear un producto
 
 Estructura:
-npm run start POST products <title> <price> <category>
+`npm run start POST products <title> <price> <category>`
 
 Ejemplo:
-npm run start POST products T-Shirt-Rex 300 remeras
+`npm run start POST products T-Shirt-Rex 300 remeras`
 
 ---
 
 ### Eliminar un producto
 
 Estructura:
-npm run start DELETE products/<productId>
+`npm run start DELETE products/<productId>`
 
 Ejemplo:
-npm run start DELETE products/7
+`npm run start DELETE products/7`
