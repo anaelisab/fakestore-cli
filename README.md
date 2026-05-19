@@ -7,7 +7,7 @@ Aplicación desarrollada con Node.js para gestionar productos utilizando la API 
 ### Obtener todos los productos
 
 Estructura:
-npm run start GET products
+`npm run start GET products`
 
 ---
 
