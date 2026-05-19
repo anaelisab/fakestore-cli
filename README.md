@@ -1,6 +1,6 @@
 # FakeStore CLI
 
-Aplicación de línea de comandos desarrollada con Node.js para gestionar productos utilizando la API FakeStore.
+Aplicación desarrollada con Node.js para gestionar productos utilizando la API FakeStore.
 
 ## Comandos
 
